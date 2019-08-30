@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-help-plugin
 Version  : 3.2.0
-Release  : 3
+Release  : 4
 URL      : https://github.com/apache/maven-help-plugin/archive/maven-help-plugin-3.2.0.tar.gz
 Source0  : https://github.com/apache/maven-help-plugin/archive/maven-help-plugin-3.2.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.2.0/maven-help-plugin-3.2.0.jar
